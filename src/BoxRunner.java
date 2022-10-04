@@ -7,8 +7,8 @@ public class BoxRunner {
         cube = new Box(15);
 
         Box newBox = new Box(6, 10, 8);
-        public void printVolume() {
-        System.out.println("Volume = " + Box.Volume());
+
+
 
 
 
